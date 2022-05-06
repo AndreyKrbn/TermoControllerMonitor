@@ -1,0 +1,14 @@
+D:\InterCross\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.dll
+D:\InterCross\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.pdb
+D:\InterCross\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.dll
+D:\InterCross\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.pdb
+D:\MySource\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.dll
+D:\MySource\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.pdb
+D:\MySource\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.csprojResolveAssemblyReference.cache
+D:\MySource\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.dll
+D:\MySource\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.pdb
+D:\InterCross\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.csprojResolveAssemblyReference.cache
+D:\InterCross\TermoControllerMonitor\SerialPortChat\bin\Debug\SerialPortChat.dll
+D:\InterCross\TermoControllerMonitor\SerialPortChat\bin\Debug\SerialPortChat.pdb
+D:\InterCross\TermoControllerMonitor\SerialPortChat\obj\Debug\SerialPortChat.dll
+D:\InterCross\TermoControllerMonitor\SerialPortChat\obj\Debug\SerialPortChat.pdb

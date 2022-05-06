@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoControllerMonitor", "TermoControllerMonitor\TermoControllerMonitor.csproj", "{BE523F61-AE38-4FB6-8B73-F21655A0DC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPortChat", "SerialPortChat\SerialPortChat.csproj", "{3E94C401-2637-4ED8-9DDD-0F2DB3E30993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE523F61-AE38-4FB6-8B73-F21655A0DC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE523F61-AE38-4FB6-8B73-F21655A0DC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE523F61-AE38-4FB6-8B73-F21655A0DC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE523F61-AE38-4FB6-8B73-F21655A0DC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E94C401-2637-4ED8-9DDD-0F2DB3E30993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E94C401-2637-4ED8-9DDD-0F2DB3E30993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E94C401-2637-4ED8-9DDD-0F2DB3E30993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E94C401-2637-4ED8-9DDD-0F2DB3E30993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
